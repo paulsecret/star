@@ -28,3 +28,11 @@
 
 # "temporary" build files
 /target
+
+# eclipse 
+.settings
+.project
+.classpath
+
+*~
+wrapper
